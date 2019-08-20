@@ -1,5 +1,5 @@
 require 'ffi'
-require "C:\\Users\\Andy\\Documents\\Ruby\\SigGem"
+require "C:\\*\\*\\*\\Ruby\\SigGem"
 
 w = 600
 h = 400
