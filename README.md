@@ -30,6 +30,7 @@ own Ruby programs using SigilRuby. Programs you create with SigilRuby are yours 
 
 # Links
 [Sigil](http://www.libsigil.com/)
+
 [Patreon](https://www.patreon.com/CrazyVikingGamer)
 
 Thanks for using SigilRuby!
