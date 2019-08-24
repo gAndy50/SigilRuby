@@ -1,5 +1,5 @@
 # SigilRuby
-This is a wrapper of Sigil for the Ruby programming language. Sigil is a simple cross-platform multi-media library. It can be used for rapid prototyping or small games. Included in this repo is the SigilRuby wrapper and a few example programs.
+This is a wrapper of Sigil for the Ruby programming language. Sigil is a simple cross-platform multi-media library. It can be used for rapid prototyping or small games. Included in this repo is the SigilRuby wrapper and a few example programs. This uses the FFI method to wrap the Sigil library.
 
 # Example
 
