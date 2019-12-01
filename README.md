@@ -33,4 +33,6 @@ own Ruby programs using SigilRuby. Programs you create with SigilRuby are yours 
 
 [Patreon](https://www.patreon.com/CrazyVikingGamer)
 
+[Paypal](paypal.me/IcyViking)
+
 Thanks for using SigilRuby!
