@@ -10,7 +10,7 @@ module Sigil
 	extend FFI::Library
 	#Load the Library 
 	#Note on Windows you will need to provide the full path to sigil.dll
-	ffi_lib "C:\\Users\\Andy\\Documents\\Ruby\\sigil.dll"
+	ffi_lib "Path to sigil DLL"
 
 	#Sigil constants
 	SL_ALIGN_CENTER = 0
