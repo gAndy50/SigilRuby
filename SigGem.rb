@@ -1,8 +1,9 @@
 ###################################
-#Sigil Ruby						  #
+#Sigil Ruby			  #
 #Written By Andy P. (Icy_Viking)  #
-#Icy Viking Games 				  #
+#Icy Viking Games 	          #
 #Ruby wrapper for sigil           #
+#Copyright (c) 2021               #
 ################################### 
 require 'ffi'
 
