@@ -3,7 +3,7 @@
 #Written By Andy P. (Icy_Viking)  #
 #Icy Viking Games 	          #
 #Ruby wrapper for sigil           #
-#Copyright (c) 2021               #
+#Copyright (c) 2022               #
 ################################### 
 require 'ffi'
 
