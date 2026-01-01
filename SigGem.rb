@@ -3,7 +3,7 @@
 #Written By Andy P. (Icy_Viking)  #
 #Icy Viking Games 	          #
 #Ruby wrapper for sigil           #
-#Copyright (c) 2025              #
+#Copyright (c) 2026             #
 ################################### 
 require 'ffi'
 
@@ -186,3 +186,4 @@ module Sigil
 	#	alias :slwindow :slWindow
 	#end
 end
+
